@@ -1,3 +1,18 @@
 td{
     border: 2px solid black;
 }
+th{
+    border: 1px solid blue;
+}
+table{
+    border: 2px solid gold;
+}
+ol{
+    color: blueviolet;
+}
+ul{
+    color: brown;
+}
+caption{
+    color: rgb(120, 192, 5);
+}
